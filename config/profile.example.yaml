@@ -1,0 +1,12 @@
+# Copy to profile.yaml and fill in. NEVER commit profile.yaml with real data.
+name: "Your Name"
+target_roles: ["AI Engineer", "Backend Engineer", "ML Engineer"]
+skills: ["Python", "LLMs", "LangChain", "FastAPI", "React"]
+yoe: ""
+location_pref: ""
+resume_path: ""
+linkedin_profile: ""
+github_profile: ""
+daily_connection_cap: 12
+batch_size: 5
+action_jitter_seconds: [60, 120]

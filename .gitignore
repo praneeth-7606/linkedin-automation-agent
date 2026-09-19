@@ -1,0 +1,9 @@
+tracker.db
+tracker.db-*
+profile.yaml
+.env
+.env.*
+*.log
+__pycache__/
+node_modules/
+.chromium-profile/
